@@ -56,6 +56,17 @@ body {
 .pic {
   padding-right: 10px;
 }
+.flow {
+  width: 40%;
+  height: 100%;
+  background-color: white;
+  padding-top: 130px;
+  padding-bottom: 100px;
+}
+.t {
+  text-align: center;
+}
+
 footer {
   text-align: center;
 }
