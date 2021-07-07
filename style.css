@@ -22,10 +22,25 @@ body {
   width: 50%;
   padding-left: 5%;
 }
+.half-width_1 img {
+  padding-right: 500px;
+  padding-top: 50px;
+}
+.tex {
+  padding-left: 250px;
+  padding-top: 120px;
+}
 
 .flexible-container {
   display: flex;
   margin: 5%;
+}
+.top_banner {
+  background-image: url(images/shapes/7.png);
+}
+.title {
+  padding-top: 15px;
+  padding-bottom: 40px;
 }
 .half-width_1 img {
   width: 80%;
@@ -62,15 +77,24 @@ body {
   background-color: white;
   padding-top: 130px;
   padding-bottom: 100px;
-}
-.t {
   text-align: center;
+}
+.center1 {
+  display: flex;
+  padding-left: 450px;
+  padding-right: 100px;
+}
+.center2 {
+  display: flex;
+  padding-right: 80px;
+}
+.style-1 {
+  white-space: nowrap;
 }
 
 footer {
   text-align: center;
 }
-
 .col {
   text-decoration: none;
   background-color: rgb(27, 24, 32);
