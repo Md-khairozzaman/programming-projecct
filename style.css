@@ -2,6 +2,25 @@ body {
   font-family: "Poppins", sans-serif;
   margin: 0;
 }
+.foodIn {
+  background-color: rgb(90, 117, 177);
+  height: 70px;
+  width: 100%;
+  padding-left: 25px;
+  padding-right: 40px;
+  display: flex;
+  font-family: initial;
+}
+.home1 {
+  padding-right: 250px;
+  padding-left: 30px;
+}
+.home2 {
+  padding-right: 250px;
+}
+.home3 {
+  padding-right: 250px;
+}
 .orange-color {
   color: orangered;
   font-size: 50px;
