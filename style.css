@@ -46,3 +46,15 @@ body {
   font-weight: 700;
   color: white;
 }
+.food_iteam_1 {
+  text-align: center;
+}
+.flexible-container-2 {
+  display: flex;
+}
+.pic img {
+  width: 80%;
+}
+.pic {
+  padding-right: 10px;
+}
